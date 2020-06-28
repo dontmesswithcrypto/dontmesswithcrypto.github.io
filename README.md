@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Don't Mess with Crypto
 
-You can use the [editor on GitHub](https://github.com/dontmesswithcrypto/dontmesswithcrypto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is dedicated to the proposition that all Americans have the right to communicate privately, and this is a right that we should defend. Today, that right is threatened by two draft bills that are being debated in the U.S. Senate: the [Law Enforcement Access to Encrypted Data](https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity) (LEAED) Act, and the [EARN-IT](https://www.congress.gov/bill/116th-congress/senate-bill/3398/text) Act. 
 
 ### Markdown
 
