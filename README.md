@@ -17,7 +17,7 @@ To support this campaign: [make a donation](dontmesswithcrypto.actblue.com). Or 
 
 ### Why Senator Graham?
 
-### What if this Graham wins anyway?
+### What if Graham wins anyway?
 
 He very well might. The point of this campaign is not necessarily to change the outcome of an election. It's to send a clear message that ''privacy is a right that Americans value highly'', and when you threaten our ability to use this technology, there will be electoral consequences. And the technology community that appreciates this isn't powerless: we have our own resources, and can fight our own battles. The larger the financial impact this community makes, the more chance we have to change the underlying political calculus that brought these bills into existence.
 
