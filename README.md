@@ -1,5 +1,7 @@
 ## Don't Mess with Crypto
 
+[Donate](dontmesswithcrypto.actblue.com)
+
 This site is dedicated to the proposition that all Americans have the right to communicate privately, and this is a right that we should defend. Today, that right is threatened by two draft bills that are being debated in the U.S. Senate: the [Law Enforcement Access to Encrypted Data](https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity) (LEAED) Act, and the [EARN-IT](https://www.congress.gov/bill/116th-congress/senate-bill/3398/text) Act. 
 
 These two bills, if passed by Congress and signed into law, would make it difficult impossible for U.S. communications providers to deploy end-to-end encryption technology, such as the technology used in modern phones, and communications systems such as WhatsApp, Signal, Facetime, and Apple iMessage. They would require providers to degrade this technology to the point where it may no longer provide security for our communications.
@@ -10,34 +12,15 @@ Both LEAED and EARN-IT were sponsored by Senator Lindsey Graham, the Chairman of
 
 To support this campaign: [make a donation](dontmesswithcrypto.actblue.com). Or read on for more.
 
-### Markdown
+### Tell me about the legislation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Why Senator Graham?
 
-# Header 1
-## Header 2
-### Header 3
+### What if this Graham wins anyway?
 
-- Bulleted
-- List
+He very well might. The point of this campaign is not necessarily to change the outcome of an election. It's to send a clear message that ''privacy is a right that Americans value highly'', and when you threaten our ability to use this technology, there will be electoral consequences. And the technology community that appreciates this isn't powerless: we have our own resources, and can fight our own battles. The larger the financial impact this community makes, the more chance we have to change the underlying political calculus that brought these bills into existence.
 
-1. Numbered
-2. List
+### Is this partisan?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dontmesswithcrypto/dontmesswithcrypto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All politics is partisan to some extent. Senator Graham is a Republican Senator, and his opponent is a Democrat. But this effort is not intended as a Democratic or a Republican effort. The co-sponsors of EARN-IT include several other Republican and Democratic Senators, all of whom should receive this message. However, none of those co-sponsors are currently facing a challenging re-election campaign. 
