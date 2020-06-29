@@ -14,8 +14,21 @@ To support this campaign: [make a donation](dontmesswithcrypto.actblue.com). Or 
 
 ### Tell me about the legislation
 
+Several excellent pieces have been written on the EARN-IT act [(0)](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it), [(1)](https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution) [(2)](http://cyberlaw.stanford.edu/blog/2020/03/earn-it-act-here-surprise-it%E2%80%99s-still-bad-news) and on the newer LEAED act [(0)](http://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok). These bills work very differently, but have a similar purpose. 
+
+EARN-IT specifies changes to [Section 230](https://www.eff.org/issues/cda230) of the Communications Decency Act, which provides a liability shield for providers who act as "platforms" for users' communications, something that is effectively required in order for providers to do business in the United States. The goal of these changes is to require that companies adhere to standards for detecting child sexual abuse media (CSAM). While this initially seems reasonable, the bill achieves its goal by appointing a government-run technology commission that will decide what tech providers are allowed to deploy in their systems. If this commission, which includes representatives appointed by the U.S. attorney general and Congress, determines that end-to-end encryption does not meet this standard, then large providers such as Facebook and Apple will no longer be allowed to deploy the technology.
+
+LEAED is a more traditional "golden master key" bill. It demands that providers, including those that operate messaging, phone calling, and storage-at-rest systems, design their systems to allow for law enforcement access to data on presentation of a warrant. This means that every existing encryption system will need to be re-designed in order to (a) remove encryption altogether, or (b) add a cryptographic backdoor that providers can use to access encrypted data. In recognition of the fact that technologists [don't know how to build such systems safely](https://www.schneier.com/academic/paperfiles/paper-keys-under-doormats-CSAIL.pdf), the bill establishes a "prize commission" to design the systems it will immediately require.
+
+Each of these bills represents a direct threat to the integrity of communications systems everywhere, and could fundamentally change the balance of power between individual citizens and their government. We oppose them both.
 
 ### Why Senator Graham?
+
+Senator Lindey Graham is the chairman of the Senate Judiciary Committee and the primary sponsor of both pieces of legislation. Graham has shown no hesitation about calling for legislation that will effectively end our ability to communicate privately using end-to-end encryption. He feels comfortable in this position for a very simple reason: to date, holding this position has carried no electoral cost.
+
+But Graham is up for election in November 2020. For the first time in more than a decade, Graham faces tied polling and a well-funded opponent. In this environment, technologist and privacy advocates have an opportunity. If we can show that our opposition to Graham's policies can translate into actual dollars in a competitive political race, then Graham and other U.S. politicians of both parties will have to take note. 
+
+While there's no guarantee that this fundraising campaign will change U.S. politicians' attitudes towards cryptography and communications rights, it will show them that there we are a consticuency, and we're willing to fight for what we believe in.
 
 ### What if Graham wins anyway?
 
