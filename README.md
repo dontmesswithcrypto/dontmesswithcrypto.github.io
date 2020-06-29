@@ -26,7 +26,7 @@ Each of these bills represents a direct threat to the integrity of communication
 
 Senator Lindey Graham is the chairman of the Senate Judiciary Committee and the primary sponsor of both pieces of legislation. Graham has shown no hesitation about calling for legislation that will effectively end our ability to communicate privately using end-to-end encryption. He feels comfortable in this position for a very simple reason: to date, holding this position has carried no electoral cost.
 
-But Graham is up for election in November 2020. For the first time in more than a decade, Graham faces tied polling and a well-funded opponent. In this environment, technologist and privacy advocates have an opportunity. If we can show that our opposition to Graham's policies can translate into actual dollars in a competitive political race, then Graham and other U.S. politicians of both parties will have to take note. 
+But Graham is up for election in November 2020. For the first time in more than a decade, Graham faces [tight polling](https://projects.fivethirtyeight.com/polls/south-carolina/) and a [well-funded opponent](https://www.charlestonchronicle.net/2020/06/04/can-jamie-harrison-beat-lindsey-graham-in-south-carolina/). In this environment, technologist and privacy advocates have an opportunity. If we can show that our opposition to Graham's policies can translate into actual dollars in a competitive political race, then Graham and other U.S. politicians of both parties will have to take note. 
 
 While there's no guarantee that this fundraising campaign will change U.S. politicians' attitudes towards cryptography and communications rights, it will show them that there we are a consticuency, and we're willing to fight for what we believe in.
 
